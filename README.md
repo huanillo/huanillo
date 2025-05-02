@@ -1,5 +1,5 @@
 🌱 Self-learner.
-- Learning web development (The Odin Project).  
+- Learning web development through [The Odin Project]https://www.theodinproject.com.  
 - Building, breaking, improving.  
 - Coding in my free time.
 <!---
